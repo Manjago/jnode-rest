@@ -4,14 +4,10 @@ import com.google.gson.Gson;
 import jnode.event.IEvent;
 import jnode.module.JnodeModule;
 import jnode.module.JnodeModuleException;
-import ru.temnenkov.jnoderest.dto.Message;
-import spark.Request;
-import spark.Response;
-import spark.Route;
-import spark.Spark;
-
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import ru.temnenkov.jnoderest.dto.Message;
+import spark.Spark;
 
 /**
  * @author Manjago (kirill@temnenkov.com)

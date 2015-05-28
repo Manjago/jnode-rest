@@ -3,7 +3,6 @@ package ru.temnenkov.jnoderest.dto;
 import com.google.gson.Gson;
 import org.junit.Assert;
 import org.junit.Test;
-import ru.temnenkov.jnoderest.dto.Message;
 
 public class MessageTest {
     @Test

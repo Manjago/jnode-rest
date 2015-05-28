@@ -1,13 +1,8 @@
 package ru.temnenkov.jnoderest.server;
 
-import jnode.module.JnodeModuleException;
 import org.junit.Assert;
-import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
-import org.junit.runners.Parameterized;
-
-import java.util.Collection;
 
 public class MainModuleTest {
 
